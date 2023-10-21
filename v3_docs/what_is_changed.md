@@ -45,7 +45,7 @@ Legacy UI will be continuously provided on new website too.
 <br>
 
 #### Other
-- Old UI is deleted.   
+- Old UI is deprecated.   
 For example, there is **Table View** on old website.   
 This functionality had been maintained from AE Check's first version, but I determined to delete it because there is so many dual-element characters for now, and It's more important to reveal exact element data than before.
 - Many site utilities are added, like Dark Mode, or `.webp` support.
