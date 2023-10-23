@@ -1,5 +1,24 @@
 ## AE Check Patch Note
 
+#### 231023
+이름 순 정렬을 다른 페이지에도 적용했습니다.   
+Alphabetical sort is applied to other pages too.
+
+ES와 AS를 체크해도 이전 버전 분석 페이지의 명함 없는 캐릭터가 갱신되지 않는 오류를 수정했습니다.    
+제보 감사드립니다.   
+Fixed error that some content on legacy analyze page is not changed by checking AS/ES characters.
+
+7택권을 위한 옵션이 추가되었습니다. 3개월 이내 출시 캐릭터를 제외할 수 있습니다.   
+Added option for 7 Star Piece Encounter. You can filter out characters released within 3 month.
+  
+사이드바와 상단 바를 추가로 조정했습니다.   
+Additional mods to sidebar and app bar.
+
+그 외 약간의 디자인과 번역 수정이 있었습니다.
+Fixed some design, styles & translations.
+
+<br>
+
 #### 231022
 언어 설정 버튼을 홈 화면에도 추가했습니다.   
 Added language select button to home screen.
