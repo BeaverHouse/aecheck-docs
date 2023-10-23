@@ -11,10 +11,10 @@ Fixed error that some content on legacy analyze page is not changed by checking 
 7택권을 위한 옵션이 추가되었습니다. 3개월 이내 출시 캐릭터를 제외할 수 있습니다.   
 Added option for 7 Star Piece Encounter. You can filter out characters released within 3 month.
   
-사이드바와 상단 바를 추가로 조정했습니다.   
+사이드바와 상단 바를 추가로 조정했습니다.     
 Additional mods to sidebar and app bar.
 
-그 외 약간의 디자인과 번역 수정이 있었습니다.
+그 외 약간의 디자인과 번역 수정이 있었습니다.   
 Fixed some design, styles & translations.
 
 <br>
