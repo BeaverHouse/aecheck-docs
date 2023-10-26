@@ -1,5 +1,11 @@
 ## AE Check Patch Note
 
+#### 231026
+New Data Update   
+https://api.another-eden.jp/asset/notice_v2/view/3265?language=ja   
+
+<br>
+
 #### 231023
 이름 순 정렬을 다른 페이지에도 적용했습니다.   
 Alphabetical sort is applied to other pages too.
