@@ -1,5 +1,18 @@
 ## AE Check Patch Note
 
+#### 231102
+성도각성 체크와 관련 필터를 추가했습니다.   
+픽업 관련 데이터는 곧 조정될 예정입니다.   
+Added feature : Star Align System & related filters
+
+<br>
+
+#### 231028
+iOS 이미지 파일 다운로드 문제를 수정했습니다.   
+Fixed iOS Image download issues.
+
+<br>
+
 #### 231026
 New Data Update   
 https://api.another-eden.jp/asset/notice_v2/view/3265?language=ja   
