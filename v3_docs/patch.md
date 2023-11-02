@@ -1,5 +1,10 @@
 ## AE Check Patch Note
 
+#### 231103
+Fix some English translations...
+
+<br>
+
 #### 231102
 성도각성 체크와 관련 필터를 추가했습니다.   
 픽업 관련 데이터는 곧 조정될 예정입니다.   
