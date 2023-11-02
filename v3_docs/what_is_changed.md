@@ -55,5 +55,5 @@ This functionality had been maintained from AE Check's first version, but I dete
 [ref2]: https://altema.jp/anaden/
 [ref3]: https://anothereden.wiki/
 
-[img1]: ../image/mig1.png
-[img2]: ../image/mig2.png
+[img1]: ../image/patch1.png
+[img2]: ../image/patch2.png
