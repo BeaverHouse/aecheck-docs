@@ -107,7 +107,8 @@ It shows CC available characters with:
 - Characters released within 1 year
 - AC / ES / AS Characters.
 
-You can change option to show not owned characters or not.
+You can change option to show not owned characters or not.   
+Also you can set whether to exclude characters released within 3 month, to use on 7 Star Piece Encounter.
 
 #### Legacy
 Same UI for Legacy version's "My Result".
