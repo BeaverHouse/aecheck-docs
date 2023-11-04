@@ -8,6 +8,7 @@ https://test.aecheck.com/
 ![img1]
 - Press menu icon on left-top to open sidebar.
 - Dark mode can be changed on right-top switch.
+- Language can be changed on main page too.
 
 ### Sidebar
 ![img2]
@@ -25,7 +26,7 @@ https://test.aecheck.com/
 - You can check/uncheck all selected characters w/ button.
 - Newly updated characters are showed with border.
 
-- If character is checked, green check icon is showed on right-top of the character.   
+> If character is checked, green check icon is showed on right-top of the character.   
  
 
 #### Manifest Check
@@ -36,7 +37,7 @@ https://test.aecheck.com/
 - You can change all manifest state w/ button.   
 (Only owned character's manifest are changed.)
 
-- If character's manifest state is on maximum, crown icon is showed on left-bottom.
+> If character's manifest state is on maximum, crown icon is shown on left-bottom.
 
 #### Grasta Check
 ![img5]
@@ -44,7 +45,18 @@ https://test.aecheck.com/
 - Try using filters and search bar to find characters.
 - You can change all grasta state w/ button.   
 
-- If you chacked grasta on owned character, grasta is showed instead of green check icon.
+> If you chacked grasta on owned character, grasta is shown instead of green check icon.
+
+#### Star Align Check
+If you don't know what Star Align is, see: https://api.another-eden.jp/asset/notice_v2/view/3263?language=ja
+
+![img10]
+- You can change Star Align status.
+- If Star Align is unavailable, description is showed instead.
+- Try using filters and search bar to find characters.
+- You can change all Star Align state w/ button.   
+
+> If character's Star Align status is on maximum, another format of image will be shown.
 
 <br>
 
@@ -122,3 +134,4 @@ Same UI for Legacy version's "My Result".
 [img7]: ../image/guide7.png
 [img8]: ../image/guide8.png
 [img9]: ../image/guide9.png
+[img10]: ../image/guide10.png

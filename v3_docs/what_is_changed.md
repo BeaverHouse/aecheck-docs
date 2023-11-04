@@ -14,11 +14,12 @@ So I separated all characters on new website, and added many filter options to f
 
 <br>
 
-#### Deletion of Buddy Check, and New Check : Grasta
+#### Deletion of Buddy Check, and New Check : Grasta & Star Align
 For now, you can get buddies in 2 ways : from game content, or encounter.   
 I thought that it's unnecessary to double-check buddy in current situation, so I removed buddy check and provide buddy's info only.
 
-Grasta check is added because many AE players are considering for that. Hope that it helps.
+Grasta check is added because many AE players are considering for that. Hope that it helps.   
+Star Align is a new system from JAP version, see: https://api.another-eden.jp/asset/notice_v2/view/3263?language=ja
 
 <br>
 
@@ -31,7 +32,7 @@ Other data verification will be added someday, if needed.
 <br>
 
 #### Link other info site
-I linked [Seesaa Wiki][ref1] page by character, and [Altema][ref2] / [AE Wiki][ref3] for dungeon.
+I linked [Seesaa Wiki][ref1] / [AE Wiki][ref3] page by character, and [Altema][ref2] / [AE Wiki][ref3] for dungeon.
 
 I selected Seesaa Wiki because it has many reasonable data, based on JP server.
 
@@ -56,4 +57,4 @@ This functionality had been maintained from AE Check's first version, but I dete
 [ref3]: https://anothereden.wiki/
 
 [img1]: ../image/patch1.png
-[img2]: ../image/patch2.png
+[img2]: ../image/guide3.png
