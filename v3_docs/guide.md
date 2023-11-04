@@ -72,7 +72,7 @@ If you don't know what Star Align is, see: https://api.another-eden.jp/asset/not
 #### Character Detail
 ![img9]
 - You can check character detail after click(touch)ing character icons, except character check page.
-- Link for Seesaa Wiki(character), Altema.jp/AE Wiki(dungeon) is provided.
+- Link for Seesaa Wiki/AE Wiki(character), Altema.jp/AE Wiki(dungeon) is provided.
 
 #### Buddy Search
 ![img7]
