@@ -78,7 +78,7 @@ If you don't know what Star Align is, see: https://api.another-eden.jp/asset/not
 ![img7]
 - Buddy check is deprecated in new AE Check.
 - If Buddy requires partner character, it's owned state depends on that character.
-- You can view brief obtain route and Seesaa Wiki link.
+- You can view brief obtain route and Seesaa Wiki/AE Wiki link.
  
 <br>
 
