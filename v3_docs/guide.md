@@ -64,7 +64,7 @@ If you don't know what Star Align is, see: https://api.another-eden.jp/asset/not
 #### Character Search
 ![img6]
 - Try using filters and search bar to find characters.
-- You can view checked characters/manifests/grastas on this page too.
+- You can view checked characters/manifests/grastas/etc... on this page too.
 - If personality filter is enabled, 4★ Characters w/ selected personalities are shown too.
 - You can download result by image.   
 ※ Download button may not be working well on some devices. Use your device's screenshot functionality, sorry for that.
