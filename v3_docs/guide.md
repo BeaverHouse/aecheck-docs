@@ -54,7 +54,6 @@ If you don't know what Star Align is, see: https://api.another-eden.jp/asset/not
 - You can change Star Align status.
 - If Star Align is unavailable, description is showed instead.
 - Try using filters and search bar to find characters.
-- You can change all Star Align state w/ button.   
 
 > If character's Star Align status is on maximum, another format of image will be shown.
 
