@@ -100,6 +100,7 @@ If You have no options for recommendation,
 it shows recommendation w/ Class Change available characters as a second option.
 
 You can change option to show only recent styles or not.
+Also you can set whether to exclude characters released within 3 month, to use on 7 Star Piece Encounter.
 
 #### Treatise/Codex/Opus
 Shows recommendation for Treatise, Codex and Opus.   
@@ -108,7 +109,6 @@ It shows Class Change available characters with:
 - AC / ES / AS Characters.
 
 You can change option to show not owned characters or not.   
-Also you can set whether to exclude characters released within 3 month, to use on 7 Star Piece Encounter.
 
 #### Legacy
 Same UI for Legacy version's "My Result".
