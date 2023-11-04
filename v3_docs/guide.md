@@ -91,19 +91,19 @@ You can download all results by image.
 #### Star Dream Encounter
 Shows recommendation for Star Dream Encounter.   
 It shows:   
-**Free characters, CC available, Owned Characters are prefiltered**
+**Free characters, Class Change available, Owned Characters are prefiltered**
 - Characters released within 1 year
 - Characters with buddy
 - AC / ES / AS / NS Characters.
 
 If You have no options for recommendation,
-it shows recommendation w/ CC available characters as a second option.
+it shows recommendation w/ Class Change available characters as a second option.
 
 You can change option to show only recent styles or not.
 
 #### Treatise/Codex/Opus
 Shows recommendation for Treatise, Codex and Opus.   
-It shows CC available characters with:   
+It shows Class Change available characters with:   
 - Characters released within 1 year
 - AC / ES / AS Characters.
 
