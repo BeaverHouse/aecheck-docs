@@ -1,7 +1,12 @@
 ## AE Check Patch Note
 
+#### 231106
+Fix Korean translations: 시그드리파
+
+<br>
+
 #### 231103
-Fix some English translations...
+Fix some English translations
 
 <br>
 
