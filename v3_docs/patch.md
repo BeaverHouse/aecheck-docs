@@ -1,12 +1,12 @@
 ## AE Check Patch Note
 
 #### 231106
-Fix Korean translations: 시그드리파
+Fix Korean translation: 시그드리파
 
 <br>
 
 #### 231103
-Fix some English translations
+Fix some English translation
 
 <br>
 
@@ -19,7 +19,7 @@ Added feature : Star Align System & related filters
 
 #### 231028
 iOS 이미지 파일 다운로드 문제를 수정했습니다.   
-Fixed iOS Image download issues.
+Fixed iOS Image download issue.
 
 <br>
 
@@ -44,7 +44,7 @@ Added option for 7 Star Piece Encounter. You can filter out characters released 
 Additional mods to sidebar and app bar.
 
 그 외 약간의 디자인과 번역 수정이 있었습니다.   
-Fixed some design, styles & translations.
+Fixed some design, styles & translation.
 
 <br>
 
@@ -71,7 +71,7 @@ AE Wiki page link will be provided instead of Seesaa Wiki, when language is set 
 I checked url by parsing wiki page but error can still exist, so give me a feedback when you find error.
 
 약간의 디자인과 번역 수정이 있었습니다.
-Fixed some design, styles & translations.
+Fixed some design, styles & translation.
 
 <br>
 
