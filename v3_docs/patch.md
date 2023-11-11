@@ -1,5 +1,11 @@
 ## AE Check Patch Note
 
+#### 231109
+New Data Update  
+https://api.another-eden.jp/asset/notice_v2/view/3267?language=ja   
+
+<br>
+
 #### 231106
 Fix Korean translation: 시그드리파
 
