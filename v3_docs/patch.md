@@ -2,7 +2,7 @@
 
 #### 231121
 New Data Update  
-https://api.another-eden.jp/asset/notice_v2/view/3268?language=ja 
+https://api.another-eden.jp/asset/notice_v2/view/3269?language=ja
 
 <br>
 
