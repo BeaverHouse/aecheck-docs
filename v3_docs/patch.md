@@ -1,8 +1,9 @@
 ## AE Check Patch Note
 
-#### 231121
+#### 231122
 New Data Update  
-https://api.another-eden.jp/asset/notice_v2/view/3269?language=ja
+https://api.another-eden.jp/asset/notice_v2/view/3269?language=ja   
+※ Date fixed due to image
 
 <br>
 
