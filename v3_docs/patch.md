@@ -1,5 +1,14 @@
 ## AE Check Patch Note
 
+#### 231208
+New Data Update  
+https://api.another-eden.jp/asset/notice_v2/view/3277?language=ja   
+
+기존 버전에 있었던 속성/무기별 표를 추가했습니다.   
+Added table view from legacy version.
+
+<br>
+
 #### 231122
 New Data Update  
 https://api.another-eden.jp/asset/notice_v2/view/3269?language=ja   
