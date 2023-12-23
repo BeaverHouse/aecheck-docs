@@ -1,5 +1,11 @@
 ## AE Check Patch Note
 
+#### 231223
+New Data Update  
+https://api.another-eden.jp/asset/notice_v2/view/3280?language=ja
+
+<br>
+
 #### 231208
 New Data Update  
 https://api.another-eden.jp/asset/notice_v2/view/3277?language=ja   
